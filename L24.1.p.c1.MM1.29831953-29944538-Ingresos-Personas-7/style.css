@@ -1,0 +1,15 @@
+body {
+    font-family: sans-serif;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  #ingresos {
+    margin: 20px auto;
+    width: fit-content;
+    border: 1px solid #ccc;
+    padding: 10px;
+  }
+  
